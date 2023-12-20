@@ -1,0 +1,1 @@
+type Contacts = { _id: string; username: string };
